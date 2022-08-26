@@ -13,6 +13,10 @@
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I sing a song while Driving.
 
+## 🏢 Organization
+- ### [Taste The Thunder](https://github.com/Taste-the-Thunder)
+- This Organization is made for Open-Source Projects
+
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dhruvin_j_prajapati) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvin-prajapati-838222154) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@djprajapati1056)[![Twitter](https://img.shields.io/twitter/follow/imthepk?logo=Twitter&style=for-the-badge)](https://twitter.com/djprajapati1056) [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dhruvin.prajapati.98/)
 
