@@ -13,6 +13,12 @@
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I sing a song while Driving.
 
+### My GitHub Stats
+<div>
+<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvinprajapati&" alt="dhruvinprajapati" />
+<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=dhruvinprajapati&show_icons=true&locale=en" alt="dhruvinprajapati" />
+</div>
+
 ## 🏢 Organization
 - ### [Taste The Thunder](https://github.com/Taste-the-Thunder)
 - This Organization is made for Open-Source Projects
