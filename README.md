@@ -16,7 +16,7 @@
 ### My GitHub Stats
 <div>
 <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvinprajapati&" alt="dhruvinprajapati" />
-<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=dhruvinprajapati&show_icons=true&locale=en" alt="dhruvinprajapati" />
+<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=dhruvinprajapati&show_icons=true&locale=en&theme=radical" alt="dhruvinprajapati" />
 </div>
 
 ## 🏢 Organization
