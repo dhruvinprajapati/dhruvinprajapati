@@ -16,8 +16,7 @@
 ### My GitHub Stats
 <div>
 
-<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvinprajapati&layout=compact&locale=en&theme=cobalt" alt="dhruvinprajapati" />
-<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=dhruvinprajapati&show_icons=true&locale=en&theme=cobalt" alt="dhruvinprajapati" />
+<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=dhruvinprajapati&show_icons=true&locale=en&count_private=true" alt="dhruvinprajapati" />
 </div>
 
 ## 🏢 Organization
