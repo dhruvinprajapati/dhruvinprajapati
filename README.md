@@ -10,8 +10,9 @@
 - 👯 I’m looking to collaborate on [Devo Lekh](http://devolekh.com/).
 - 🤔 I’m looking for help with Designing.
 - 💬 Ask me about Laravel/Flutter or any tech-related stuff.
-- 📫 How to reach me: Check social links below.
+- 📫 How to reach me: Check the social links below.
 - ⚡ Fun fact: I sing a song while Driving.
+- 🚲 Cyclist...
 
 ### My GitHub Stats
 <div>
