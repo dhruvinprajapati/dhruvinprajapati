@@ -1,47 +1,84 @@
-<h1 align="center"> Namaste , <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /> I'm Dhruvin Prajapati</h1>
+<!-- Profile README for Dhruvin Prajapati -->
 
+<h1 align="center">
+  Namaste <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />, I'm Dhruvin Prajapati
+</h1>
 
-# 💫 About Me :
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=400&color=1DF7C1&center=true&vCenter=true&multiline=true&width=590&height=70&lines=Laravel+%7C+Flutter+%7C+Python+%7C+Cloud+%7C+Open+Source+Enthusiast;Always+learning+and+building+something+cool!;Welcome+to+my+GitHub+profile!" alt="Typing SVG">
+</p>
+
+---
+
+# 💫 About Me
+
 - 🔭 I’m currently building [Physioter](https://physioter.com/).
 - 🌱 I’m currently learning more about Life.
 - 👯 I’m looking to collaborate on [Devo Lekh](http://devolekh.com/).
 - 🤔 I’m looking for help with Designing.
 - 💬 Ask me about Laravel/Flutter or any tech-related stuff.
 - 📫 How to reach me: Check the social links below.
-- ⚡ Fun fact: I sing a song while Driving.
+- ⚡ Fun fact: I sing a song while driving.
 - 🚲 Cyclist...
 
-## Github Stats  
-<div style="display:flex;justify-content:space-between;">
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhruvinprajapati&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" alt="stats graph" width=400 />
+## 📊 GitHub Stats & Analytics
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvinprajapati&theme=tokyo-night&area=true&hide_border=true" width="90%"/>
+</p>
 
- <img src="https://streak-stats.demolab.com?user=dhruvinprajapati&locale=en&mode=weekly&theme=aura&hide_border=true&border_radius=5&order=3" alt="streak graph"  width=400 />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruvinprajapati&theme=tokyonight" width="90%" />
+</p>
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvinprajapati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=dhruvinprajapati&theme=aura&hide_border=true&border_radius=5" width="45%" />
 </div>
-<br/> 
 
-## 🏢 Organization
+
+
+---
+
+## 🏢 Organizations
+
 - ### [Taste The Thunder](https://github.com/Taste-the-Thunder)
   - This Organization is made for Open-Source Projects
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dhruvin_j_prajapati) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvin-prajapati-838222154) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@djprajapati1056)[![Twitter](https://img.shields.io/twitter/follow/djprajapati1056?logo=Twitter&style=for-the-badge)](https://twitter.com/djprajapati1056) [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dhruvin.prajapati.98/)
+---
+
+## 🌐 Connect with me
+
+<p align="center">
+  <a href="https://www.instagram.com/dhruvin_j_prajapati"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dhruvin-prajapati-838222154"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@djprajapati1056"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://twitter.com/djprajapati1056"><img src="https://img.shields.io/twitter/follow/djprajapati1056?logo=Twitter&style=for-the-badge"/></a>
+  <a href="https://www.facebook.com/dhruvin.prajapati.98/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
+
+---
 
 ## 💻 Tech Stack
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,dart,java,js,swift,ts,python,aws,firebase,gcp,flutter,django,npm,nodejs,react,vuetify,xamarin,vue,tailwind,fastapi,express,mongodb,mysql,postgres,sqlite,figma,postman,swagger,docker,vscode,github,gitlab" />
+</p>
+
+---
 
 ## 👨🏻‍💻 Laptop in use
-<img src="https://img.shields.io/badge/Apple-MacBook_Pro_2019-333333?style=for-the-badge&logo=apple&logoColor=white"/>
 
-  
+<p align="center">
+  <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2019-333333?style=for-the-badge&logo=apple&logoColor=white"/>
+</p>
+
+---
 
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
-
