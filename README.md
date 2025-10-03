@@ -14,11 +14,15 @@
 - ⚡ Fun fact: I sing a song while Driving.
 - 🚲 Cyclist...
 
-### My GitHub Stats
-<div>
+## Github Stats  
+<div style="display:flex;justify-content:space-between;">
 
-<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=dhruvinprajapati&show_icons=true&locale=en&count_private=true" alt="dhruvinprajapati" />
+<img src="https://github-readme-stats.vercel.app/api?username=niraj2477&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" alt="stats graph" width=400 />
+
+
+ <img src="https://streak-stats.demolab.com?user=niraj2477&locale=en&mode=weekly&theme=aura&hide_border=true&border_radius=5&order=3" alt="streak graph"  width=400 />
 </div>
+<br/> 
 
 ## 🏢 Organization
 - ### [Taste The Thunder](https://github.com/Taste-the-Thunder)
