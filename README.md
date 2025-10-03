@@ -26,7 +26,7 @@
 ## 📊 GitHub Stats & Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvinprajapati&theme=tokyo-night&area=true&hide_border=true" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvinprajapati&theme=github-dark&area=true&hide_border=true" width="90%"/>
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=dhruvinprajapati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="45%" />
-  <img src="https://streak-stats.demolab.com?user=dhruvinprajapati&theme=aura&hide_border=true&border_radius=5" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=dhruvinprajapati&theme=github-dark&hide_border=true&border_radius=5" width="45%" />
 </div>
 
 
