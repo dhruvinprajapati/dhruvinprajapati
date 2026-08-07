@@ -7,6 +7,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=400&color=1DF7C1&center=true&vCenter=true&multiline=true&width=590&height=70&lines=Senior+Laravel+Developer+%7C+Team+Lead;Laravel+%7C+Flutter+%7C+Python+%7C+Cloud+%7C+Open+Source+Enthusiast;Always+learning+and+building+something+cool!;Welcome+to+my+GitHub+profile!" alt="Typing SVG">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhruvinprajapati&label=Profile%20Views&color=1DF7C1&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/dhruvinprajapati?label=Followers&style=for-the-badge&color=1DF7C1" alt="Followers"/>
+</p>
+
 ---
 
 # 💫 About Me
@@ -37,6 +42,24 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dhruvinprajapati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="45%" />
   <img src="https://streak-stats.demolab.com?user=dhruvinprajapati&theme=github-dark&hide_border=true&border_radius=5" width="45%" />
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvinprajapati&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="55%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhruvinprajapati&theme=tokyonight&no-frame=true&row=1&column=7" width="90%" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dhruvinprajapati/dhruvinprajapati/output/github-contribution-grid-snake-dark.svg" width="90%" />
+</p>
+
+> ℹ️ The snake animation needs a one-time GitHub Actions setup in your profile repo. Let me know if you'd like the workflow file for it — it auto-generates the SVG above from your contribution graph.
 
 ---
 
