@@ -1,22 +1,22 @@
 <!-- Profile README for Dhruvin Prajapati -->
-
 <h1 align="center">
   Namaste <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />, I'm Dhruvin Prajapati
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=400&color=1DF7C1&center=true&vCenter=true&multiline=true&width=590&height=70&lines=Laravel+%7C+Flutter+%7C+Python+%7C+Cloud+%7C+Open+Source+Enthusiast;Always+learning+and+building+something+cool!;Welcome+to+my+GitHub+profile!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=400&color=1DF7C1&center=true&vCenter=true&multiline=true&width=590&height=70&lines=Senior+Laravel+Developer+%7C+Team+Lead;Laravel+%7C+Flutter+%7C+Python+%7C+Cloud+%7C+Open+Source+Enthusiast;Always+learning+and+building+something+cool!;Welcome+to+my+GitHub+profile!" alt="Typing SVG">
 </p>
 
 ---
 
 # 💫 About Me
 
-- 🔭 I’m currently building [Physioter](https://physioter.com/).
-- 🌱 I’m currently learning more about Life.
-- 👯 I’m looking to collaborate on [Devo Lekh](http://devolekh.com/).
-- 🤔 I’m looking for help with Designing.
-- 💬 Ask me about Laravel/Flutter or any tech-related stuff.
+- 🚀 Senior Laravel Developer with hands-on experience building and scaling backend systems for production applications.
+- 🧑‍💼 I lead a development team, handling everything from architecture decisions and code reviews to infrastructure and DevOps.
+- 📱 Comfortable working with Flutter for cross-platform mobile app development alongside my backend work.
+- ☁️ Enjoy working across the stack — from Laravel APIs to AWS infrastructure, CI/CD pipelines, and database management.
+- 🌱 I'm currently learning more about Life.
+- 💬 Ask me about Laravel, Flutter, DevOps, or any tech-related stuff.
 - 📫 How to reach me: Check the social links below.
 - ⚡ Fun fact: I sing a song while driving.
 - 🚲 Cyclist...
@@ -37,8 +37,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dhruvinprajapati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="45%" />
   <img src="https://streak-stats.demolab.com?user=dhruvinprajapati&theme=github-dark&hide_border=true&border_radius=5" width="45%" />
 </div>
-
-
 
 ---
 
