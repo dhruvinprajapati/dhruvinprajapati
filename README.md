@@ -27,17 +27,6 @@
 
 ---
 
-## 🛠️ What I'm Building
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| **StudentInk** | School/college ERP — exams, attendance, results, report cards and fees | Laravel · MySQL · JavaScript · AWS |
-| **First Offer** | Campus placement platform; 1,000+ concurrent students applying to companies | Laravel · Vue.js · Flutter · MySQL |
-| **Institute CRM** | Admissions CRM with configurable forms, follow-ups and payment gateways | Laravel · Vue.js · MySQL |
-| **Quick Question Paper Generator** | Automated exam paper generation with balanced patterns — won an SSIP grant of ₹2,00,000 | Laravel · Vue.js · MySQL |
-
----
-
 ## 💻 Tech Stack
 
 <p align="center">
@@ -47,10 +36,6 @@
 ---
 
 ## 📊 GitHub Stats & Analytics
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvinprajapati&theme=tokyo-night&area=true&hide_border=true" width="90%"/>
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruvinprajapati&theme=tokyonight" width="90%" />
@@ -72,9 +57,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvinprajapati&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="55%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhruvinprajapati&theme=tokyonight&no-frame=true&row=1&column=7" width="90%" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhruvinprajapati&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhruvinprajapati&theme=tokyonight" width="45%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhruvinprajapati&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhruvinprajapati&theme=tokyonight&utcOffset=5.5" width="45%" />
+</div>
 
 ---
 
