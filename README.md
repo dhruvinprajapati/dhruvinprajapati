@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=400&color=1DF7C1&center=true&vCenter=true&multiline=true&width=590&height=70&lines=Senior+Laravel+Developer+%7C+Team+Lead;Laravel+%7C+Flutter+%7C+Python+%7C+Cloud+%7C+Open+Source+Enthusiast;Always+learning+and+building+something+cool!;Welcome+to+my+GitHub+profile!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=400&color=1DF7C1&center=true&vCenter=true&multiline=true&width=590&height=70&lines=Senior+Software+Engineer+%7C+Team+Lead;Laravel+%7C+Vue.js+%7C+React+Native+%7C+Flutter+%7C+AWS;Building+education+platforms+at+scale;Always+learning+and+building+something+cool!" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -16,31 +16,56 @@
 
 # 💫 About Me
 
-- 🚀 Senior Laravel Developer with hands-on experience building and scaling backend systems for production applications.
+- 🚀 Senior Software Engineer with hands-on experience building and scaling backend systems for production applications.
 - 🧑‍💼 I lead a development team, handling everything from architecture decisions and code reviews to infrastructure and DevOps.
-- 📱 Comfortable working with Flutter for cross-platform mobile app development alongside my backend work.
-- ☁️ Enjoy working across the stack — from Laravel APIs to AWS infrastructure, CI/CD pipelines, and database management.
-- 🌱 I'm currently learning more about Life.
-- 💬 Ask me about Laravel, Flutter, DevOps, or any tech-related stuff.
-- 📫 How to reach me: Check the social links below.
+- 📱 Comfortable across mobile too — Flutter and React Native alongside my backend work.
+- ☁️ Enjoy working across the stack — Laravel APIs, Vue.js frontends, AWS infrastructure, CI/CD pipelines and database optimisation.
+- 🎓 Most of my work lives in education tech: ERP, admissions and campus placement platforms.
+- 💬 Ask me about Laravel, Vue.js, Flutter, AWS, DevOps, or any tech-related stuff.
 - ⚡ Fun fact: I sing a song while driving.
 - 🚲 Cyclist...
+
+---
+
+## 🛠️ What I'm Building
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **StudentInk** | School/college ERP — exams, attendance, results, report cards and fees | Laravel · MySQL · JavaScript · AWS |
+| **First Offer** | Campus placement platform; 1,000+ concurrent students applying to companies | Laravel · Vue.js · Flutter · MySQL |
+| **Institute CRM** | Admissions CRM with configurable forms, follow-ups and payment gateways | Laravel · Vue.js · MySQL |
+| **Quick Question Paper Generator** | Automated exam paper generation with balanced patterns — won an SSIP grant of ₹2,00,000 | Laravel · Vue.js · MySQL |
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,php,vue,nodejs,react,flutter,dart,js,ts,python,mysql,postgres,redis,aws,terraform,docker,nginx,git,github,gitlab,bootstrap,tailwind,postman,figma,vscode&perline=13" alt="Tech stack" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats & Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvinprajapati&theme=github-dark&area=true&hide_border=true" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvinprajapati&theme=tokyo-night&area=true&hide_border=true" width="90%"/>
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruvinprajapati&theme=tokyonight" width="90%" />
 </p>
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<!--
+  NOTE: the two cards below use the shared public github-readme-stats instance,
+  which sometimes hits GitHub's API limits and renders "Maximum retries exceeded".
+  To make them reliable, deploy your own Vercel instance with a PAT and replace
+  "github-readme-stats.vercel.app" with your own domain.
+  Guide: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
+-->
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhruvinprajapati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="45%" />
-  <img src="https://streak-stats.demolab.com?user=dhruvinprajapati&theme=github-dark&hide_border=true&border_radius=5" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=dhruvinprajapati&theme=tokyonight&hide_border=true&border_radius=5" width="45%" />
 </div>
 
 <p align="center">
@@ -59,8 +84,6 @@
   <img src="https://raw.githubusercontent.com/dhruvinprajapati/dhruvinprajapati/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </p>
 
-> ℹ️ The snake animation needs a one-time GitHub Actions setup in your profile repo. Let me know if you'd like the workflow file for it — it auto-generates the SVG above from your contribution graph.
-
 ---
 
 ## 🏢 Organizations
@@ -73,33 +96,10 @@
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://www.instagram.com/dhruvin_j_prajapati"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:djprajapati1056@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/dhruvin-prajapati-838222154"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://medium.com/@djprajapati1056"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://twitter.com/djprajapati1056"><img src="https://img.shields.io/twitter/follow/djprajapati1056?logo=Twitter&style=for-the-badge"/></a>
+  <a href="https://x.com/djprajapati1056"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://www.instagram.com/dhruvin_j_prajapati"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.facebook.com/dhruvin.prajapati.98/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
-
----
-
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,dart,java,js,swift,ts,python,aws,firebase,gcp,flutter,django,npm,nodejs,react,vuetify,xamarin,vue,tailwind,fastapi,express,mongodb,mysql,postgres,sqlite,figma,postman,swagger,docker,vscode,github,gitlab" />
-</p>
-
----
-
-## 👨🏻‍💻 Laptop in use
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2019-333333?style=for-the-badge&logo=apple&logoColor=white"/>
-</p>
-
----
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
