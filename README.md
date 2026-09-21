@@ -48,8 +48,8 @@
   "github-readme-stats.vercel.app" with your own domain.
   Guide: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
 -->
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvinprajapati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="45%" /> -->
+ <div align="center">
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=dhruvinprajapati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="45%" /> -->
   <img src="https://streak-stats.demolab.com?user=dhruvinprajapati&theme=tokyonight&hide_border=true&border_radius=5" width="45%" />
 </div>
 
